@@ -1,4 +1,4 @@
-# CNN_Conferences_2023
+# CNN Conferences 2023
 
 Files used in my lectures concerning the development of Deep Learning solutions. 
 
