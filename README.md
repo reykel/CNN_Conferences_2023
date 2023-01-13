@@ -6,8 +6,8 @@ They are all supported on Supervised Learning Models for image and video classif
 
 ## For development was used: 
  - Python3 language
- - TensorFlow free library
- - Keras framework
+ - TensorFlow library
+ - Keras library
  - Public datasets
 ### The exercises were developed using the Google Colab tool.
 
